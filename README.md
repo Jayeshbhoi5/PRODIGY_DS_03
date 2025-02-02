@@ -1,6 +1,6 @@
 # Prodigy InfoTech Data Science Internship Task 2  
 <br>
-<img src="ds3.png">
+<img src="Task03.png">
 
 ### Welcome to Task 3 Submission 🎯  
 This project implements a **Decision Tree Classifier** to predict whether a customer will purchase a product or service based on demographic and behavioral data. The model is trained using the **Bank Marketing dataset** from the **UCI Machine Learning Repository**.  
